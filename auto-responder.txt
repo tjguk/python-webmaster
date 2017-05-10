@@ -1,0 +1,217 @@
+READ THIS!  (If you want help.)
+
+webmaster@python.org received an e-mail from you, and this is an
+automated response.  python.org is a site devoted to the free object-
+oriented programming language called Python, operated by the
+Python Software Foundation (PSF).
+
+Please read this message carefully for pointers to help find answers to
+your question.
+
+Note while a group of volunteers have seen your message,
+webmaster@python.org will probably *not* respond to you personally
+unless your question concerns the workings of the python.org web
+site or other administrative business.
+
+
+Issues with the python.org website
+==================================
+
+Website maintenance and development is done using a github issue
+tracker. Issues or problems with the site should be reported there:
+
+    https://github.com/python/pythondotorg/issues
+
+This is not the same as the Python language bugtracker, listed
+below under Installation Issues.
+
+Despite having the same domain suffix, the Python Package Index,
+pypi.python.org, is actually a separately administered site.
+Please visit that site to see links for where to report PyPi
+issues, they are at the very top of the page:
+
+    https://pypi.python.org/pypi
+
+The Python Job Board is also separately administered:
+
+    https://www.python.org/jobs (mail jobs@python.org for issues)
+
+
+User-Driven Site Updates
+========================
+
+The principal value of the Foundation's work is in enabling communities,
+and individual Python users, to share their knowledge. The Python Wiki
+
+    https://wiki.python.org/moin
+
+is therefore editable by users. To discourage huge amounts of spam that
+nobody needs to see we have an fairly informal approval process that
+basically consists of persuading someone who might, loosely, be termed
+as "in charge" that you plan to make positive contributions. If you
+haven't already, please mail www-pydotorg@python.org for permission,
+with a brief outline of your proposals (include your wiki account
+name).
+
+Should you be asking yourself whether you can join the international Python
+community we like to think the answer is here:
+
+    https://www.python.org/psf/diversity
+
+
+Legal Inquiries
+===============
+
+The Python Software Foundation's General Counsel can be reached via
+legal@python.org. Please send all legal inquiries there. Please
+try other methods first: the Python license has a FAQ:
+
+    https://wiki.python.org/moin/PythonSoftwareFoundationLicenseFaq
+
+For claims regarding packages listed on PyPi, please contact
+the PyPi administrators first.
+
+
+Installation Issues
+===================
+
+If you are having an installation problem, you are probably not
+the first one with that issue.  Please make sure you have read
+all of the documentation on the downloads page, sometimes you have
+to hunt around a bit to find all of the information.  The download
+page attempts to auto-detect your system but there is a selection
+to show all of the available downloads if it is not suggesting the
+version you want.  If you really think you have hit a bug, please
+check in the Python bugtracker to see if it is mentioned there:
+
+    https://bugs.python.org/
+
+The FAQ may have useful information for installation and learning:
+
+    https://docs.python.org/3/faq/index.html
+
+If you have discovered Python installed on your computer and are wondering
+how it got there (and if you can remove it), please see this web page:
+
+    https://www.python.org/doc/faq/installed/
+
+
+Learning Python
+===============
+
+If you are starting to learn Python and would like to get help for
+beginners, try contacting the Tutor mailing list.  The volunteers
+on Tutor help beginners learn how to use the Python programming language.
+You can subscribe to the tutor list by visiting the following web
+page:
+
+    https://www.python.org/mailman/listinfo/tutor
+
+You can find more information for new programmers at
+
+    https://wiki.python.org/moin/BeginnersGuide
+
+There are also a vast number of internet resources for learning
+Python, but these sites are not endorsed by the Python Software
+Foundation.
+
+
+Help with Python Programming
+============================
+
+For general information on the Python programming language, please
+visit the home page
+
+    https://www.python.org/
+
+and the documentation page
+
+    https://www.python.org/doc/
+
+For more information about Python help resources, visit
+
+    https://www.python.org/about/help/
+
+The Python Wiki contains a number of useful resources, among them:
+
+    Editing Python       https://wiki.python.org/moin/PythonEditors
+
+    Python-Friendly      https://wiki.python.org/moin/PythonHosting
+    Web Hosting
+
+    Python Books         https://wiki.python.org/moin/PythonBooks
+
+    Python Training      https://wiki.python.org/moin/PythonTraining
+
+
+Advanced Questions
+==================
+
+If you are asking a question about Python programming, start with the
+FAQ:
+
+    https://www.python.org/doc/faq/
+
+If that doesn't answer your question, send it to python-list@python.org
+(python-list can also be accessed as the netnews group comp.lang.python)
+or help@python.org.  python-list and c.l.py are preferred as the first
+step in getting assistance, because many more people are likely to read
+your message.
+
+If you wish to send a message to python-list, you should subscribe
+first, because many people will only post public responses (this
+ensures that lurkers also get the information):
+
+    https://mail.python.org/mailman/listinfo/python-list
+
+help@python.org is a mailing list that reaches a number of volunteer
+Python language experts dedicated to answering questions about the
+Python programming language.  You do not need to subscribe to
+help@python.org to ask a question of the helpers.  But please be as
+clear as you can about the problem, including relevant details such as:
+
+ - Precise error messages, including complete tracebacks
+ - The hardware platform
+ - The operating system (available in the Python sys module as
+sys.platform)
+ - The Python version (sys.version)
+ - The Python search path (sys.path)
+
+
+I Did Not Get My Confirmation Email After Creating an Account
+=============================================================
+
+The various spam protection mechanisms deployed by internet service
+providers sometimes have a side effect of making it hard for email from
+non-humans to get delivered.  The confirmation emails are system-generated
+and sometimes get caught.  Check your spam box, or any other place your
+ISP may have put blocked or quarantined mail.
+
+
+Subscribing to / Unsubscribing from Mailing Lists
+=================================================
+
+The python.org webmasters cannot help you get on or off lists that
+happen to be managed with the Mailman package.  Contact the
+administrator of the particular list instead.  If you send email to
+the list using an address like "foobar@somewhere.com", try addressing
+your request to "foobar-request@somewhere.com" or
+"foobar-owner@somewhere.com".
+
+Note that all Mailman lists contain an URL at the bottom of each
+message that takes you to a web page where you can unsubscribe from
+the list.
+
+You can also see a list of public mailing lists hosted by python.org at
+
+    https://mail.python.org/
+
+For information about the Mailman package, see
+
+    https://www.gnu.org/software/mailman/mailman.html
+
+
+"The joy of coding Python should be in seeing short, concise, readable
+classes that express a lot of action in a small amount of clear code
+-- not in reams of trivial code that bores the reader to death."
+--GvR
